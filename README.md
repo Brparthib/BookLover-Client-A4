@@ -29,7 +29,7 @@ BookLover is a fully responsive and minimalist web application designed to manag
 #### 💻 setup
 - clone this repository on you local device
 ```
-git clone 
+git clone https://github.com/Brparthib/BookLover-Client-A4.git
 ```
 - go to that project folder
 ```
